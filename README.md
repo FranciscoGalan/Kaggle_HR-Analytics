@@ -5,7 +5,10 @@ Supervised classification competition, "[HR Analytics: Job Change of Data Scient
 
 ## Notebooks
 
-- 
+- [Notebook principal](https://nbviewer.jupyter.org/github/FranciscoGalan/Kaggle_HR_Analytics/blob/main/main.ipynb)
+- [Gráficas Feature Selection](https://nbviewer.jupyter.org/github/FranciscoGalan/Kaggle_HR_Analytics/blob/main/Gr%C3%A1ficas%20Feature%20Selection.ipynb)
+- [Heatmaps de resultados](https://nbviewer.jupyter.org/github/FranciscoGalan/Kaggle_HR_Analytics/blob/main/Heatmaps%20de%20resultados.ipynb)
+- [Modelos de Pao](https://nbviewer.jupyter.org/github/FranciscoGalan/Kaggle_HR_Analytics/blob/main/MODELOS_PAO.ipynb)
 
 
 
